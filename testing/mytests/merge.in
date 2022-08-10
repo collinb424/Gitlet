@@ -1,0 +1,6 @@
+I checkout.in
+> merge a
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<

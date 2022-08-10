@@ -1,0 +1,8 @@
+I checkout.in
+> reset 51
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "newer"
+<<<

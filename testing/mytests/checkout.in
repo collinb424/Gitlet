@@ -1,0 +1,17 @@
+I test02-basic-checkout.in
+> branch "a"
+<<<
+> checkout "a"
+<<<
++ notwug.txt notwug.txt
+> add notwug.txt
+<<<
+> commit "not wug"
+<<<
+> checkout master
+<<<
++ notwug.txt notwug.txt
+> add notwug.txt
+<<<
+> commit "new not wug"
+<<<

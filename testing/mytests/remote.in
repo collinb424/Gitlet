@@ -1,0 +1,16 @@
+C D1
+I setup.in
+C D2
+> init
+<<<
++ k.txt wug2.txt
+> add k.txt
+<<<
+> commit "Add k in repo 2"
+<<<
+> add-remote R1 ../D1/.gitlet
+<<<
+> fetch R1 master
+<<<
+> add k.txt
+<<<
