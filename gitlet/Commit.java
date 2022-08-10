@@ -115,7 +115,7 @@ public class Commit implements Serializable {
         }
     }
 
-    /** Update the hashmap to include the specified blob if it is not already in it. */
+    /** Update the hashmap to include the specified blob if the blob is not already in it. */
     private void updateHashMap(Blob addedFile) {
         String name = addedFile.getName();
         String sha1 = addedFile.getSHA1();
