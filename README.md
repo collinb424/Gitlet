@@ -42,7 +42,7 @@ Supported commands:
 - find [commit message]
 - status
 - checkout -- [file name]
-- checkout [commid id] -- [file name]
+- checkout [commit id] -- [file name]
 - checkout [branch name]
 - branch [branch name]
 - rm-branch [branch name]
@@ -52,4 +52,6 @@ Supported commands:
 - rm-remote [remote name]
 - push [remote name] [remote branch name]
 - fetch [remote name] [remote branch name]
-- pull [remote name] [remote branch name]
+- pull [remote name] [remote branch name]  
+  
+More information on the commands can be found [here](https://sp21.datastructur.es/materials/proj/proj2/proj2). Note: this link gave no hints on how to actually implement or design the program—I thought of the design and implemented the code myself.
