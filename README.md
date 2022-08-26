@@ -1,11 +1,6 @@
 # Gitlet 
 A lightweight version control system that provides much of the key functionality of Git.  
-  
-  
-Example usage of a few basic commands:
-
-
-https://user-images.githubusercontent.com/92958582/184517671-088acd20-8843-4f8e-ad82-62bf5265963b.mp4
+ 
 
   
     
@@ -16,6 +11,12 @@ https://user-images.githubusercontent.com/92958582/184517671-088acd20-8843-4f8e-
 - Maintaining related sequences of commits, called branches.
 - Merging changes made in one branch into another.
 - Allowing for remote collaboration with other people.
+
+
+Example usage of a few basic commands:
+
+https://user-images.githubusercontent.com/92958582/184517671-088acd20-8843-4f8e-ad82-62bf5265963b.mp4
+
 
 ## How to Use
 The ability to compile Java is required.  
